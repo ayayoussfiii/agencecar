@@ -80,6 +80,24 @@ Online payment integration
 
 GPS system integration
 
+
+
+
+
+
+
+
+
+
+
+<img width="959" height="541" alt="image" src="https://github.com/user-attachments/assets/780710e9-ac44-4d1e-840e-c04544a1b752" />
+
+<img width="839" height="564" alt="image" src="https://github.com/user-attachments/assets/3b2e57cf-9321-4265-ae51-06605747a6c9" />
+<img width="732" height="496" alt="image" src="https://github.com/user-attachments/assets/be69478c-69ee-4148-a7f9-bbc448083073" />
+
+
+
+
 Mobile version <img width="725" height="441" alt="image" src="https://github.com/user-attachments/assets/532dcde0-ffe6-4f60-8102-a1a96940edd4" />
 
 
